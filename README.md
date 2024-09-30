@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Everyone!+I'm+SHH;Have+nice+day!)](https://git.io/typing-svg)
 
-[![SHH's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHH)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **chaosmoney/chaosmoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
