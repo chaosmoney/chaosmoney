@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Everyone!;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Everyone!+I'm+SHH;Have+nice+day!)](https://git.io/typing-svg)
 
 <!--
 **chaosmoney/chaosmoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
